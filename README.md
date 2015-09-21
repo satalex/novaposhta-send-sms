@@ -4,7 +4,6 @@
 
 Для рассылки смс используется сервис turbosms.ua. Данные доступа к API в личном кабинете turbosms.
 
-Дополнительно необходимо установить модуль для работы с API turbosms: 
-pip3 install turbosmsua
+Дополнительно необходимо установить модуль для работы с API turbosms:
 
-
+pip3 install -r requirements.txt
